@@ -1,0 +1,13 @@
+.card {
+    justify-content: space-around;
+
+}
+
+.heading {
+    text-align: center;
+    padding: 2rem;
+}
+
+.body {
+    background-color: 	#c64918;
+}
